@@ -152,5 +152,7 @@ This experiment successfully applies Logistic Regression to the Iris dataset and
 ✔ Mention that target labels were already numeric
 
 ---
+---
 
 <div align="center"> <h1 style=font-weight: bold;>@PSCodersHub</h1> </div>
+
