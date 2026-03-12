@@ -1,4 +1,4 @@
-# 📄 Classification & Clustering on IRIS Dataset
+# 📄Assignment 5 - Classification & Clustering on IRIS Dataset
 
 🔗 **Google Colab Link:**
 [https://colab.research.google.com/drive/1qV3Z6O4L4uRJrzrUUmSqAMwZGb2LNWB_?usp=sharing](https://colab.research.google.com/drive/1qV3Z6O4L4uRJrzrUUmSqAMwZGb2LNWB_?usp=sharing)
@@ -133,6 +133,13 @@ By completing this assignment, you will:
 * IRIS dataset info: [https://archive.ics.uci.edu/ml/datasets/Iris](https://archive.ics.uci.edu/ml/datasets/Iris)
 
 ---
+
+## Author
+
+***Priyanshu Sahoo***
+
 ---
+---
+
 
 <div align="center"> <h1 style=font-weight: bold;>@PSCodersHub</h1> </div>
